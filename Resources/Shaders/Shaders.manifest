@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 876750526
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pipdisabler_reticle_shaders.bundle
+      Dependencies: {}
